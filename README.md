@@ -1,3 +1,11 @@
+# About me
+
+I hold a PhD degree in Electrical Engineering.
+
+I have a strong inclination towards Machine Learning and Data Science. My main research subject is Reinforcement Learning.
+
+Currently I'm trying to learn the basics of Full-Stack Web Development.
+
 # 🎖️ Badges
 
 <a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' width=150 /></a>
