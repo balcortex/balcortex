@@ -10,7 +10,8 @@ Currently I'm trying to learn the basics of Full-Stack Web Development.
 
 <a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' width=150 /></a>
 <a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png' width=150 /></a>
-<a href='https://www.credly.com/badges/40e504c8-b856-4fcf-8f40-0afa93d13157/public_url'><img src='https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png' width=150 /> </a>
+<a href='https://www.credly.com/badges/40e504c8-b856-4fcf-8f40-0afa93d13157/public_url'><img src='https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png' width=150 /></a>
+<a href='https://credentials.databricks.com/c7c012a3-9064-4978-8fd3-6405859a7c9f'><img src='https://images.credential.net/badge/tiny/ze3wqytg_1716745060618_badge.png' width=150 /></a>
 
 ---
 # 🔥 My Stats
