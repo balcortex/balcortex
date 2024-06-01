@@ -1,4 +1,4 @@
-![image](https://github.com/balcortex/balcortex/assets/8388406/5216754e-c3a3-4b17-9874-545e9121de24)# About me
+# About me
 
 I hold a PhD degree in Electrical Engineering.
 
